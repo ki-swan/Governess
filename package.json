@@ -1,0 +1,14 @@
+{
+  "name": "governess",
+  "version": "1.0.0",
+  "description": "Governess is a JSON manager for JavaScript",
+  "main": "gson.ts",
+  "devDependencies": {
+    "@types/node": "^20.10.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yuki Kneip",
+  "license": "MIT"
+}
